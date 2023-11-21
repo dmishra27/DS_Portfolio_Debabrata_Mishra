@@ -84,27 +84,3 @@ sizes and axel combination.
    
 ---
 
-### Certificates 
-* [Machine Learning Specialization](https://coursera.org/share/fc5c10d3f96939edf29145069b48a6a3) 
-* [Big Data Specialization](https://coursera.org/share/be7f65fa09309f4cc3e2c67bcb071c3f)  
-* [Intro to Machine Learning with Tensorflow Nanodegree](https://confirm.udacity.com/EAATQCZY)
-* [Machine Learning Engineer Nanodegree](https://confirm.udacity.com/KCFRE3KD)
-* [AWS Fundemntals Specialization](https://coursera.org/share/e34358a0200a916eebb07b64f22d055e)
-* [Data Science Professional Certificate](https://coursera.org/share/696a589922de676e872971acf146f4ec) 
-* [AI for Medicine](https://coursera.org/share/e12fc21c24eb1ebfe70121c66b7ee8ad)
-* [Data Visualization with Seborn](https://www.kaggle.com/learn/certification/youssef19/data-visualization)
-* [Time Series Forecasting](https://www.kaggle.com/learn/certification/youssef19/time-series)
-* [Data-Visualization-with-Plotly-in-Python](https://www.datacamp.com/statement-of-accomplishment/course/49b8afff93d6cbd07813b058ada618ddbd85fbab)
-* [Machine Learning Explanality-Kaggle](https://www.kaggle.com/learn/certification/youssef19/machine-learning-explainability)
----
-
-### Course Work
-* [Deep Learning](https://github.com/youssefHosni/Deep-learning-Specilization) 
-* [Data Science](https://github.com/youssefHosni/IBM-data-science-proffesional-certificate) 
-* [Machine learning engineering](https://github.com/youssefHosni/Machine-Learning-Engineer-Udacity-Nanodegree)
-* [Intro to machine learning with tesnorflow](https://github.com/youssefHosni/Intro-to-machine-learning-nanodegree)
-* [Data Engineering](https://github.com/youssefHosni/Data-Engineering-Nanodegree)
-* [Time Series Kaggle Course](https://github.com/youssefHosni/Time-Series-Kaggle-Course)
-* [Data Visualization Kaggle Course](https://github.com/youssefHosni/Data-Visualization-Kaggle-Course) 
-* [Data-Visualization-with-Plotly-in-Python](https://github.com/youssefHosni/Data-Visualization-with-Plotly-in-Python)
-* [Machine Learning Explanality-Kaggle](https://github.com/youssefHosni/Machine-Learning-Explanality-Course-Kaggle)
