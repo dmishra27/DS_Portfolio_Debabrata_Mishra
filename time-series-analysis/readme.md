@@ -1,1 +1,1 @@
-The time series analysis projeects 
+The time series analysis projects.
